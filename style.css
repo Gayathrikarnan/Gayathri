@@ -1,0 +1,14 @@
+.img{
+  corner-radius:300px;
+height:400px;
+  border-radius:100px;
+  border:2px solid pink
+}
+.profile{
+   display:flex;
+  align-items:center;
+  justify-content:center;
+  corner-radius:30px;
+height:400px
+  
+}
